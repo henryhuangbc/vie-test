@@ -1,0 +1,47 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="style.css">
+</head>
+</body>
+
+
+
+    
+
+<div class="topnav" >
+  <a class="active" href = "index.html" style="color:white" id = "meetcompany">Meet the Company</a>
+    <div class="topnav-right">
+    <a href="OurProducts.html" style="color:white"id = "products">Our Products</a>
+    <a href ="SummerSpecial.html" style="color:white"id = "special">Summer Special</a>
+    <a href="MeettheBoardofDirectors.html" style="color:white"id = "meet">Meet the Board of Directors</a>
+    <a class = "button" id = "shopButton" href = "https://form.jotform.com/210925897842064">Shop</a>
+  </div>
+</div> 
+<div id = "backgroundImg" > 
+<center><img src="vielogo.jpg" alt = "This is an image of our logo"width="800" style = "margin-top: 50px; margin-bottom: 130px;"></center>
+</div>
+
+<div style = "margin-top: -30px; color: white; background: black; padding-bottom: 10px;"> 
+  <center><h1 style="color:#52855d; padding-top: 20px;" class="size" id = "meetheader">Meet the Company</h1>
+  <p class="size1">VIE, Vast Imaginations Enterprise, is a small company founded in 2019 by 10 year old twins.
+  The twins wanted to help the world become a better, more efficient place to live. 
+  They expanded by adding two friends from their neighborhood to their company. They then added two other friends to their company. 
+  VIE offers an array of products, from painted rocks and clamdles, to lanyard keychains. 
+  VIE also offers Services and a Spring and Summer special. They are still expanding, and they all hope that one day their company can go big!
+  They all hope that one day their company can change the world!</p>
+  <h1 style="color:#52855d;" class="size">How to Contact Us</h1>
+  <p class="size1">Please contact us at: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=vieofficialbusiness123@gmail.com " id = "email" >vieofficialbusiness123@gmail.com</a> to inquire about our company or to see further information.</p>
+</div>
+
+
+<script>
+  console.log("Hello, check out the 'our products' page to see the services we offer")
+
+</script>
+
+</body>
+</html>
+
